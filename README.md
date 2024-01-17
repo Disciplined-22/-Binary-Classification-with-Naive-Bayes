@@ -11,6 +11,7 @@ Make sure you have the required Python packages installed. You can install them 
 
 ```bash
 pip install scikit-learn
+pip install numpy
 ```
 
 ## How to Run
